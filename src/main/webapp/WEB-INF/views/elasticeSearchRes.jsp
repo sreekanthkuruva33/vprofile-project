@@ -9,7 +9,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>vp-elasticsearch</title>
+<title>elasticsearch</title>
 </head>
 <body>
 <h1>Data  is ${result} into Elasticsearch</h1>
